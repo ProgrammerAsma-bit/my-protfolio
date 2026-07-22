@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430" role="img" aria-labelledby="title desc">
+  <title id="title">مشروع قصد</title>
+  <desc id="desc">تطبيق لخدمات الإنابة للعمرة.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f7f3ff"/><stop offset="1" stop-color="#d1c6ff"/></linearGradient>
+    <linearGradient id="purple" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#8265ff"/><stop offset="1" stop-color="#321bb5"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#4427b5" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="720" height="430" rx="30" fill="url(#bg)"/>
+  <rect x="176" y="52" width="168" height="326" rx="34" fill="#1b143e" filter="url(#shadow)"/>
+  <rect x="190" y="76" width="140" height="278" rx="24" fill="#fff"/>
+  <rect x="222" y="96" width="76" height="10" rx="5" fill="#d8d0ff"/>
+  <circle cx="260" cy="166" r="46" fill="#efeaff"/>
+  <path d="M241 186v-34h38v34h-38Zm10-10h18v-14h-18v14Z" fill="#5637e8"/>
+  <rect x="214" y="238" width="92" height="12" rx="6" fill="#b9adff"/>
+  <rect x="214" y="266" width="70" height="12" rx="6" fill="#d8d0ff"/>
+  <rect x="214" y="302" width="92" height="34" rx="12" fill="url(#purple)"/>
+  <path d="M430 292c46-17 76-55 91-113 25 39 26 88 0 127-23 34-62 53-105 49-38-4-70-25-88-57 36 19 69 17 102-6Z" fill="#fff" filter="url(#shadow)"/>
+  <path d="M448 286c34-18 55-47 65-86 12 29 9 60-10 84-18 23-47 35-76 31-12-2-24-6-34-13 20 2 38-3 55-16Z" fill="url(#purple)"/>
+  <circle cx="520" cy="124" r="24" fill="#fff" opacity=".9"/>
+  <path d="M520 111v26M507 124h26" stroke="#5637e8" stroke-width="7" stroke-linecap="round"/>
+</svg>

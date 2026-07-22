@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430" role="img" aria-labelledby="title desc">
+  <title id="title">مشروع نسق</title>
+  <desc id="desc">منصة لإدارة الطاقم التعليمي وحل التعارضات.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f8f5ff"/><stop offset="1" stop-color="#d4caff"/></linearGradient>
+    <linearGradient id="side" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#7558ee"/><stop offset="1" stop-color="#2c188f"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#4528b3" flood-opacity=".2"/></filter>
+  </defs>
+  <rect width="720" height="430" rx="30" fill="url(#bg)"/>
+  <rect x="78" y="58" width="564" height="314" rx="24" fill="#fff" filter="url(#shadow)"/>
+  <rect x="78" y="58" width="112" height="314" rx="24" fill="url(#side)"/>
+  <rect x="112" y="98" width="44" height="10" rx="5" fill="#fff" opacity=".8"/>
+  <rect x="112" y="142" width="52" height="10" rx="5" fill="#cfc4ff"/>
+  <rect x="112" y="174" width="42" height="10" rx="5" fill="#cfc4ff"/>
+  <rect x="112" y="206" width="58" height="10" rx="5" fill="#cfc4ff"/>
+  <rect x="226" y="98" width="164" height="20" rx="10" fill="#251a58"/>
+  <rect x="226" y="144" width="360" height="52" rx="14" fill="#f1edff"/>
+  <rect x="246" y="162" width="82" height="14" rx="7" fill="#5637e8"/>
+  <rect x="356" y="162" width="64" height="14" rx="7" fill="#b8adff"/>
+  <rect x="454" y="158" width="92" height="22" rx="11" fill="#fff"/>
+  <rect x="226" y="222" width="170" height="90" rx="18" fill="#f4f1ff"/>
+  <rect x="424" y="222" width="170" height="90" rx="18" fill="#f4f1ff"/>
+  <path d="M258 278h104M258 254h64" stroke="#8d78ff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M456 278h104M456 254h78" stroke="#5637e8" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="590" cy="116" r="26" fill="#5637e8"/>
+  <path d="m579 117 8 8 15-18" stroke="#fff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
